@@ -2,14 +2,15 @@
   <img src="https://images.steamusercontent.com/ugc/916920527962943968/047A07C8EBDDE264EA1CD4FFB55D685BE8F495AA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gif">
 </p>
 
-# Hi, I'm Platon (kekich119)
+# Hi, I'm Platon (kekich119)👋
 
-- 15 y.o👶
-- Russia🇷🇺
+- **15 y.o**👶
+- **Russia**🇷🇺
+- **My experience - 5 months**🤓
   
 
 ## Goals
-- Learn Java and its Spring framework
+**- Learn Java and its Spring framework**
 
   
 ## Technologies
