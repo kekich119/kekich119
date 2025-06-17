@@ -1,14 +1,22 @@
-# Привет! 👋 Меня зовут Платон
+# Hi, I'm Platon (kekich119)
 
-Я начинающий разработчик на Java ☕, люблю backend и делаю свои проекты.
+I'm an aspiring Java developer with a passion for building real-world applications and learning how systems work behind the scenes.
 
-## 🧰 Технологии и инструменты
+## Goals
+- Build a functional banking application in Java
+- Improve my understanding of algorithms and data structures
+- Learn the basics of web development
+
+## Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-blue?style=for-the-badge&logo=intellij-idea)
 
-## 📈 Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=kekich119&show_icons=true&theme=tokyonight)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kekich119&show_icons=true&theme=default)
 
-## 🔗 Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_ссылка)
+## Contact
+[Telegram](https://t.me/your_username)
+
+---
+Currently working on: ATM simulation project with Java and SQLite.
