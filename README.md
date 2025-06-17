@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Иван
 
-<!--
-**kekich119/kekich119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий разработчик на Java ☕, люблю backend и делаю свои проекты.
 
-Here are some ideas to get you started:
+## 🧰 Технологии
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Моя статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-dev&show_icons=true&theme=radical)
+
+## 💡 Интересные факты
+- 🔭 Сейчас работаю над приложением банкомата на Java
+- 🌱 Изучаю основы веб-разработки
+
+## 📫 Связь
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твоя_ссылка)
