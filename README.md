@@ -6,7 +6,7 @@
 
 - **15 y.o**👶
 - **Russia**🇷🇺
-- **My experience - 5 months**🤓
+- **My experience - 2 months**🤓
   
 
 ## Goals
