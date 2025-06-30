@@ -23,6 +23,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kekich119&show_icons=true&theme=tokyonight)
 
 ## Contact
- <a href="https://t.me/krekich108" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
+ <a href="https://t.me/kekich108" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" width="36" height="36" alt="Telegram" />
   </a>
