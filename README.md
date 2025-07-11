@@ -4,11 +4,11 @@
 
 
 
-# Hi, I'm Platon (kekich119)👋
+# I'm Platon (kekich119)👋
 
-- **15 y.o**👶
-- **Russia** 🇷🇺
-- **My experience - 2 months**🤓
+- **15 y.o**
+- **Russia** 
+- **My experience - 2 months**
   
 
 ## Goals
