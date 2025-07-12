@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.mds.yandex.net/i?id=2051b06341b65890d5410b7287191c22c50d8141-5232623-images-thumbs&n=13" alt="Gif">
+  <img src="https://www.welovebuzz.com/wp-content/uploads/2014/11/bus-totoro.gif" alt="Gif">
 </p>
 
 
