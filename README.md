@@ -7,7 +7,6 @@
 # I'm Platon (kekich119)👋
 
 - **15 y.o**
-- **Russia** 
 - **My experience - 5 month**
   
 
