@@ -8,7 +8,7 @@
 
 - **15 y.o**
 - **Russia** 
-- **My experience - 3 months**
+- **My experience - 5 month**
   
 
 ## Goals
