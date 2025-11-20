@@ -7,7 +7,7 @@
 # I'm Platon (kekich119)👋
 
 - **15 y.o**
-- **My experience - 5 month**
+- **My experience - 6 month**
   
 
 ## Goals
