@@ -6,12 +6,7 @@
 
 # I'm Platon (kekich119)👋
 
-- **15 y.o**
-- **My experience - 6 month**
   
-
-## Goals
-**- Learn Java and its Spring framework**
 
   
 ## Technologies
