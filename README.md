@@ -4,7 +4,7 @@
 
 
 
-# I'm Platon (kekich119)👋
+# Platon (kekich119)👋
 
   
 
